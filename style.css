@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: tomato;
+}
+h1 {
+  color: rgb(245, 240, 240);
+}
+input {
+  margin: 5px;
+  border-radius: 10%;
+}
+.calcular {
+  margin-left: -120px;
+  font-size: 15px;
+}
+.calcular:hover {
+  transform: scale(1.1);
+}
+.apagar {
+  margin: 5px;
+  font-size: 15px;
+}
+.apagar:hover {
+  transform: scale(1.1);
+}
+#resultado,
+span {
+  color: rgb(245, 240, 240);
+  font-size: 15px;
+}
