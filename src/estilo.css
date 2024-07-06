@@ -2,7 +2,8 @@ body {
   text-align: center;
   background-color: tomato;
 }
-h1 {
+h1,
+span {
   color: rgb(245, 240, 240);
 }
 input {
@@ -23,8 +24,7 @@ input {
 .apagar:hover {
   transform: scale(1.1);
 }
-#resultado,
-span {
+#resultado {
   color: rgb(0, 0, 0);
   font-size: 15px;
 }
